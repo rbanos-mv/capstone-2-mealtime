@@ -13,6 +13,8 @@ In the future, we could add another interface to create reservations for a table
 
 You may read [here](https://github.com/microverseinc/curriculum-javascript/blob/main/group-capstone/js_capstone.md) the document with all the requirements for the project document.
 
+![image](https://raw.githubusercontent.com/rbanos-mv/mealtime/dev/src/images/Homepage1.webp)
+
 ## Built With
 
 - HTML 5
@@ -23,7 +25,7 @@ You may read [here](https://github.com/microverseinc/curriculum-javascript/blob/
 
 ## Live Demo
 
-- [Live Demo Link](https://aimalamiri.github.io/JavaScript-Group-Capstone-Project/)
+- [Live Demo Link](https://rbanos-mv.github.io/mealtime/)
 
 - [Video presentation](https://drive.google.com/file/d/1UHX68i6MkWBDDubmmGYOspCNi4Uy-YEH/view?usp=sharing)
 
@@ -39,8 +41,8 @@ Open your terminal and navigate to the folder you would like to save the project
 
 Type these commands into the terminal:
 
-- git clone https://github.com/aimalamiri/JavaScript-Group-Capstone-Project.git
-- cd JavaScript-Group-Capstone-Project
+- git clone https://github.com/rbanos-mv/mealtime.git
+- cd mealtime
 
 You will need a .env file before you install and run the project. There is included an example file .env.example
 
