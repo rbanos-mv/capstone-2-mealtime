@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aimalamiri/JavaScript-Group-Capstone-Project.git"
+    "url": "git+https://github.com/rbanos-mv/mealtime.git"
   },
   "keywords": [
     "capstone project"
@@ -25,9 +25,9 @@
   "author": "Aimal Amiri",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aimalamiri/JavaScript-Group-Capstone-Project/issues"
+    "url": "https://github.com/rbanos-mv/mealtime/issues"
   },
-  "homepage": "https://github.com/aimalamiri/JavaScript-Group-Capstone-Project/#readme",
+  "homepage": ".",
   "devDependencies": {
     "@babel/core": "^7.17.10",
     "@babel/plugin-transform-runtime": "^7.17.12",
